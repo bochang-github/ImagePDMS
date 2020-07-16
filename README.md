@@ -1,8 +1,13 @@
-# snapshotPDMS
-Automatisation de la capture d'écran pour AVEVA PDMS
+# ImagePDMS
+A PML macro for software PDMS to have the screenshots automatically
 
-# Résumé 
-Pdms2photo est une application permettant d'automatiser la capture d'écran sur les éléments chargés dans le logiciel PDMS. C'est un outil codé en PML pour être intégré dans le PDMS et utilisé directement par les projeteurs. A partir des captures d'écrans effectuées, cet outil peut faciliter la revue de la maquette de la manière plus efficace et normalisée.
+# Summary 
+This Macro is used for the software PDMS by the 3D model designers. It allows the users to have the screenshots automatically with the uploaded elements. The Marco can work in 2 modes: screenshot of the elements or screenshot of the element with its enviroment. The Macro is coded in PML which is a AVEVA programmable macro language.
 
-# Pourquoi ce projet ?
-J'ai commencé à travailler dessus d'après l'échange avec mon collègue, un expert d'installation qui a travaillé dans plusieurs projet. Grace à lui je sais qu'il existe une méthode permettant d'automatiser la capture d'écran à l'aide de plusieurs applications dans le PDMS. Lorsque je l'ai pratiqué dans mon travail, cette méthode m'a gagné énorme du temps pour réaliser la revue de la maquette enfin de connaitre l'état des lieux des éléments. Par contre le méthode existée nécessite un développement pour faire les projeteurs facile à utiliser. Voilà pourquoi j'avais décidé de commencé ce projet.
+With the screenshots generated from the macro, the work like review of 3D model or creation of quality report can be quickly followed.
+
+
+# Why this project ?
+The main advantages of this macro is: 
+- Automatization of actual manual screenshot process, which is boring and huge time-consuming
+- Make it reliable of each screenshot taken and ensure a performance gain
